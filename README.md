@@ -35,7 +35,7 @@ To run the tests use the below command:
  yarn test
 ```
 
-This test is complete when either all tests pass or the alloted time is up
+This test is complete when either all tests pass or the allotted time is up
 
 ---
 
